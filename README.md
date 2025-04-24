@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dassakrassia/dassakrassia/refs/heads/main/game%20mode.gif" alt="banner" />
+</p>
 
-<!--
-**dassakrassia/dassakrassia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Perina Daria
+ML engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li> Studying Software Engineering at CSU</li>
+  <li> Worked on Telegram bots and developed a projects using Python</li>
+  <li> How to reach me: <a href="mailto:perinadaria19@gmail.com">perinadaria19@gmail.com</a></li>
+  <li> I love eating delicious food and watching doramas and anime!</li>
+</ul>
+
+
+## Tech Stack
+![](https://img.shields.io/badge/Python-232327?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Deep%20Learning-00599C?style=for-the-badge)
+![](https://img.shields.io/badge/NLP-424242?style=for-the-badge)
+![](https://img.shields.io/badge/Docker%20-00599C?style=for-the-badge)
+![](https://img.shields.io/badge/CV-232327?style=for-the-badge&logo=python&logoColor=white)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dassakrassia&theme=solarized_dark)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dassakrassia&theme=react-dark)](https://github.com/dassakrassia/github-readme-activity-graph)
+
+![](https://komarev.com/ghpvc/?username=dassakrassia)
