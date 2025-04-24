@@ -9,6 +9,7 @@ ML engineer
 <ul>
   <li> Studying Software Engineering at CSU</li>
   <li> Worked on Telegram bots and developed a projects using Python</li>
+  <li> Developed a web service using Python that I really enjoy!</li>
   <li> How to reach me: <a href="mailto:perinadaria19@gmail.com">perinadaria19@gmail.com</a></li>
   <li> I love eating delicious food and watching doramas and anime!</li>
 </ul>
@@ -24,6 +25,6 @@ ML engineer
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dassakrassia&theme=solarized_dark)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dassakrassia&theme=react-dark)](https://github.com/dassakrassia/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dassakrassia&theme=high-contrast)](https://github.com/dassakrassia/github-readme-activity-graph)
 
 ![](https://komarev.com/ghpvc/?username=dassakrassia)
