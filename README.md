@@ -25,6 +25,6 @@ ML engineer
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dassakrassia&theme=solarized_dark)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dassakrassia&theme=high-contrast)](https://github.com/dassakrassia/github-readme-activity-graph)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/dassakrassia/dassakrassia)
 ![](https://komarev.com/ghpvc/?username=dassakrassia)
