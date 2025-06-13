@@ -10,7 +10,7 @@ ML engineer
   <li> Studying Software Engineering at CSU</li>
   <li> Worked on Telegram bots and developed a projects using Python</li>
   <li> Developed a web service using Python that I really enjoy!</li>
-  <li> How to reach me: <a href="mailto:perinadaria19@gmail.com">perinadaria19@gmail.com</a></li>
+  <li> How to reach me: <a href="mailto:stitch-storm.4v@icloud.com">perinadaria19@gmail.com</a></li>
   <li> I love eating delicious food and watching doramas and anime!</li>
 </ul>
 
